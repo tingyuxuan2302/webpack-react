@@ -1,0 +1,12 @@
+.page-box {
+	border:1px solid red;
+	display: flex;
+	background: orange;
+}
+.text {
+	width: auto;
+	float: left;
+}
+.image {
+	flex: 1;
+}

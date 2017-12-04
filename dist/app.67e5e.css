@@ -1,0 +1,17 @@
+.page-box {
+	border:1px solid red;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	background: orange;
+}
+.text {
+	width: auto;
+	float: left;
+}
+.image {
+	-webkit-box-flex: 1;
+	    -ms-flex: 1;
+	        flex: 1;
+}
+/*# sourceMappingURL=app.67e5e.css.map*/
